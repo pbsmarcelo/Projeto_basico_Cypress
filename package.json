@@ -1,0 +1,16 @@
+{
+  "name": "projeto_teste",
+  "version": "1.0.0",
+  "description": "Projeto para treinar utilização da ferramenta Cypress",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  },
+  
+  "author": "Marcelo Patrik",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.5.1"
+  }
+}
